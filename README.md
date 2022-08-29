@@ -11,6 +11,8 @@ Hi, I am full-stack Web Developer from the Netherlands. I am ready to take on a 
 * ✉️  You can contact me at [nieuwenburg.stefan@gmail.com](mailto:nieuwenburg.stefan@gmail.com)
 * 🚀  I'm currently working on [Check out some of the projects I did in the pinned repos below!](http://github.com/Stefannieuwenburg)
 * 🧠  I'm learning https://react-bootstrap.github.io/
+* 🧠  I'm learning https://styled-components.com/
+* 🧠  I'm learning https://mui.com/
 * 🤝  I'm open to collaborating on interesting projects for web development
 * ⚡  My background is in both front-end and back-end technologies, but I especially love using React and TypeScript (with Redux for state management) to create beautiful, responsive and functional web applications.
 
