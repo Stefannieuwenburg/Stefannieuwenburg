@@ -4,7 +4,7 @@ Hi 👋 My name is Stefan Nieuwenburg
 Full-stack web Developer (TypeScript, React, Python, Flask)
 -----------------------------------------------------------
 
-Hi, I am full-stack Web Developer from the Netherlands. I am ready to take on a new job as a web developer. I am a strong analytical thinker, capable of learning new skills and technologies quickly and efficiently and strongly driven to improve myself and my skillset wherever possible.
+Hi, I am full-stack Web/Low Code Developer from the Netherlands. I am ready to take on a new job as a Developer. I am a strong analytical thinker, capable of learning new skills and technologies quickly and efficiently and strongly driven to improve myself and my skillset wherever possible.
 
 * 🌍  I'm based in Nederland
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-stefan-nieuwenburg.netlify.app/)
