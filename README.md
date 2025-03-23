@@ -1,7 +1,7 @@
 Hi 👋 My name is Stefan Nieuwenburg
 ===================================
 
-Full-stack Developer ( Mendix,Usoft,Thinkwise,Node.js, React.js, Ocacle.db, Sql)
+Full-stack Font-end application Developer ( Mendix,Usoft,Thinkwise,Node.js, React.js, Ocacle.db, Sql)
 -----------------------------------------------------------
 
 Hi, I am full-stack Developer from the Netherlands. I am ready to take on a new job as a Developer. I am a strong analytical thinker, capable of learning new skills and technologies quickly and efficiently and strongly driven to improve myself and my skillset wherever possible.
